@@ -33,16 +33,6 @@ npm run build
 npm run preview
 ```
 
-## 🌐 Despliegue en GitHub Pages
-
-Este proyecto está configurado para desplegarse en GitHub Pages usando la carpeta `docs/`:
-
-1. Ejecuta `npm run build` para generar los archivos en `/docs`
-2. Haz commit y push de la carpeta `docs/`
-3. En GitHub, ve a Settings > Pages
-4. Selecciona la rama `main` y carpeta `/docs` como fuente
-5. Tu sitio estará disponible en `https://[tu-usuario].github.io/[repo-name]/`
-
 ## 🔗 API Backend
 
 El frontend se conecta a: `https://ai-blog-rw4v.onrender.com`
@@ -56,9 +46,9 @@ El frontend se conecta a: `https://ai-blog-rw4v.onrender.com`
 
 ## 📝 Usuario de Prueba
 
-Para probar la aplicación, puedes crear un usuario o usar:
-- Email: (crear tu propio usuario)
-- Password: (crear tu propia contraseña)
+Para probar la aplicación, puedes registrar un nuevo usuario o usar una cuenta ya existente:
+- Email: (crear tu propio usuario o usar : hola@gmail.com)
+- Password: (crear tu propia contraseña o usar: 1234567)
 
 ## 🎨 Estructura del Proyecto
 
